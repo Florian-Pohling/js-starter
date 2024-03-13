@@ -58,3 +58,4 @@ const lotsOfDecimal = 1.54649879543213654897
 console.log(lotsOfDecimal)
 const twoDecimalPlaces=lotsOfDecimal.toFixed(2)
 console.log(twoDecimalPlaces)
+
